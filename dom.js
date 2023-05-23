@@ -11,3 +11,8 @@ for(var i=0; i < li.length; i++)
 {
  li[i].style.fontweight = 'bold';
 }
+
+
+//Query selector//
+var li= document.querySelectorAll('.li');
+li[3].style.backgroundColor = 'green'
