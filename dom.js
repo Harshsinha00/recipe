@@ -16,3 +16,6 @@ for(var i=0; i < li.length; i++)
 //Query selector//
 var li= document.querySelectorAll('.li');
 li[3].style.backgroundColor = 'green'
+
+
+//Parent and child nodes
